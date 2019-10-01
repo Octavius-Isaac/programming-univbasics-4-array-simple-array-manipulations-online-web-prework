@@ -32,3 +32,7 @@ end
 def using_insert (array, language)
   array.insert(4, language)
 end
+
+def using_uniq (array)
+ array 
+end
